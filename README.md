@@ -4,5 +4,3 @@
 
 - 📱 Work as Android & iOS developer
 - 🎮 Amateur Warcraft 3 map developer
-- 📺 Bilibili uploader and streamer
-- ❤️ Warcraft 3, Starcraft 2, Tetris, NS
